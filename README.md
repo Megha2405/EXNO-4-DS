@@ -24,6 +24,19 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![output](<Screenshot 2025-04-28 232928-2.png>)
+![output](<Screenshot 2025-04-28 232943.png>)
+![outpuut](<Screenshot 2025-04-28 232959.png>)
+![output](<Screenshot 2025-04-28 233015.png>)
+![output](<Screenshot 2025-04-28 233029.png>)
+![output](<Screenshot 2025-04-28 233042.png>)
+![output](<Screenshot 2025-04-28 233058.png>)
+![output](<Screenshot 2025-04-28 233109.png>)
+![output](<Screenshot 2025-04-28 233120.png>)
+![output](<Screenshot 2025-04-28 233130.png>)
+![output](<Screenshot 2025-04-28 233142.png>)
+![output](<Screenshot 2025-04-28 233155.png>)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      
+       Thus, Feature selection and Feature scaling has been used on thegiven dataset.
